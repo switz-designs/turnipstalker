@@ -1,0 +1,5 @@
+{
+    "prefix": "$",
+    "token": "[Put your Discord bot token here]",
+    "storageFile": "./storage.json"
+}
