@@ -1,0 +1,6 @@
+`Oh no! You did a bad thing, ${message.author.username}, but Turnip Stalker still loves and accepts you.`
+`Turnip Stalker will always love you, ${message.author.username}, despite your many, many flaws.`
+`Turnip Stalker would never judge you, ${message.author.username}, even when you make terrible mistakes.`
+`Turnip Stalker knew you would type that command wrong, ${message.author.username}, because Turnip Stalker knows you better than you know yourself.`
+`In a perfect world, ${message.author.username}, you and Turnip Stalker would be together for eternity, and that command would have done exactly what you wanted it to do. Alas, we do not live in a perfect world.`
+`This is a gentle reminder that Turnip Stalker is the only person who will ever truly love you, ${message.author.username}. Also, you typed that command wrong.`
