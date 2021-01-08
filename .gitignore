@@ -1,3 +1,5 @@
 config.json
 .idea
 node_modules
+storageTest.json
+storageBackup.json
